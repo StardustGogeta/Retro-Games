@@ -1,5 +1,6 @@
 # Compilation files
 *.o
+*.exe
 
 # Code::Blocks files
 *.layout

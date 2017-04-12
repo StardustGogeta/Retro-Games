@@ -1,0 +1,6 @@
+# Compilation files
+*.o
+
+# Code::Blocks files
+*.layout
+*.depend

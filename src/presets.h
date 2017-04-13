@@ -3,10 +3,9 @@
 
 // Select options here:
 #define CLOCK_SPEED 20
-#define BOXSIZE 10
+#define BOXSIZE 20
 #define GAME "Snake"
-#define GRIDH 32
-#define GRIDW 32
-const int GRID_DIMS[2];
+#define GRIDH 24
+#define GRIDW 24
 
 #endif // PRESETS
